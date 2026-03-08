@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+groq
+pdfplumber
+python-multipart
